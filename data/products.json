@@ -1,0 +1,383 @@
+{
+  "products": [
+    {
+      "id": "hc-001",
+      "name": "Toilet Cleaner Concentrate",
+      "category": "home-care",
+      "price": 299,
+      "description": "High-concentration eco-friendly toilet cleaner that's tough on stains but gentle on the planet",
+      "benefits": [
+        "10x more concentrated than regular cleaners",
+        "Removes tough stains and limescale",
+        "Fresh, natural fragrance",
+        "Safe for septic systems"
+      ],
+      "usage": "Dilute 50ml concentrate with 450ml water. Apply to toilet bowl, let sit for 5 minutes, scrub and flush.",
+      "image": "/images/products/toilet-cleaner.jpg",
+      "badge": "Eco-Friendly",
+      "featured": true
+    },
+    {
+      "id": "hc-002",
+      "name": "Bathroom Cleaner Concentrate",
+      "category": "home-care",
+      "price": 349,
+      "description": "Multi-surface bathroom cleaner that cuts through soap scum and hard water stains",
+      "benefits": [
+        "Works on all bathroom surfaces",
+        "Prevents mold and mildew",
+        "Non-toxic formula",
+        "Lasts 3x longer than regular cleaners"
+      ],
+      "usage": "Mix 30ml concentrate with 470ml water in a spray bottle. Spray on surfaces, wipe clean.",
+      "image": "/images/products/bathroom-cleaner.jpg",
+      "badge": "Eco-Friendly",
+      "featured": true
+    },
+    {
+      "id": "hc-003",
+      "name": "Dish Wash Gel Concentrate",
+      "category": "home-care",
+      "price": 279,
+      "description": "Powerful grease-cutting formula that's gentle on hands and the environment",
+      "benefits": ["Cuts through tough grease", "Biodegradable formula", "Gentle on skin", "Pleasant citrus scent"],
+      "usage": "Use 1-2 drops per dish. For heavily soiled items, use more as needed.",
+      "image": "/images/products/dish-wash.jpg",
+      "badge": "Eco-Friendly",
+      "featured": true
+    },
+    {
+      "id": "hc-004",
+      "name": "Glass Cleaner Concentrate",
+      "category": "home-care",
+      "price": 249,
+      "description": "Streak-free shine for all glass and mirror surfaces",
+      "benefits": ["Streak-free formula", "Works on windows and mirrors", "Anti-static properties", "Ammonia-free"],
+      "usage": "Dilute 20ml concentrate with 480ml water. Spray and wipe with microfiber cloth.",
+      "image": "/images/products/glass-cleaner.jpg",
+      "badge": "Eco-Friendly"
+    },
+    {
+      "id": "hc-005",
+      "name": "Floor Cleaner Concentrate",
+      "category": "home-care",
+      "price": 329,
+      "description": "Versatile floor cleaner for all floor types - tiles, marble, wood, and more",
+      "benefits": ["Safe for all floor types", "No residue left behind", "Pleasant fresh scent", "pH balanced formula"],
+      "usage": "Add 40ml concentrate to 5 liters of water. Mop floors as usual.",
+      "image": "/images/products/floor-cleaner.jpg",
+      "badge": "Eco-Friendly"
+    },
+    {
+      "id": "hc-006",
+      "name": "Hand Wash Concentrate",
+      "category": "home-care",
+      "price": 229,
+      "description": "Gentle hand wash that cleanses without drying your skin",
+      "benefits": [
+        "Moisturizing formula",
+        "Antibacterial properties",
+        "Dermatologically tested",
+        "Long-lasting freshness"
+      ],
+      "usage": "Dilute 100ml concentrate with 400ml water. Use as regular hand wash.",
+      "image": "/images/products/hand-wash.jpg",
+      "badge": "Eco-Friendly"
+    },
+    {
+      "id": "hc-007",
+      "name": "Detergent Liquid Concentrate",
+      "category": "home-care",
+      "price": 399,
+      "description": "High-efficiency laundry detergent for spotless, fresh-smelling clothes",
+      "benefits": [
+        "Works in all washing machines",
+        "Removes tough stains",
+        "Color-safe formula",
+        "Fresh linen fragrance"
+      ],
+      "usage": "Use 30ml for regular load, 50ml for heavily soiled clothes.",
+      "image": "/images/products/detergent.jpg",
+      "badge": "Eco-Friendly",
+      "featured": true
+    },
+    {
+      "id": "hc-008",
+      "name": "Fabric Softener Concentrate",
+      "category": "home-care",
+      "price": 349,
+      "description": "Makes clothes soft, fluffy, and static-free",
+      "benefits": ["Extra soft finish", "Reduces static cling", "Long-lasting freshness", "Hypoallergenic"],
+      "usage": "Add 20ml to fabric softener dispenser for regular load.",
+      "image": "/images/products/fabric-softener.jpg",
+      "badge": "Eco-Friendly"
+    },
+    {
+      "id": "hc-009",
+      "name": "Woolen Wash Liquid Concentrate",
+      "category": "home-care",
+      "price": 379,
+      "description": "Specially formulated for delicate woolen and silk garments",
+      "benefits": ["Preserves fabric quality", "Prevents shrinkage", "Maintains softness", "Gentle cleaning action"],
+      "usage": "Hand wash: 10ml per liter. Machine wash: 30ml for delicate cycle.",
+      "image": "/images/products/woolen-wash.jpg",
+      "badge": "Eco-Friendly"
+    },
+    {
+      "id": "hc-010",
+      "name": "Multipurpose Cleaner Concentrate",
+      "category": "home-care",
+      "price": 299,
+      "description": "One solution for all your household cleaning needs",
+      "benefits": [
+        "Cleans multiple surfaces",
+        "Removes grease and grime",
+        "Safe for kitchen and bathroom",
+        "Economical solution"
+      ],
+      "usage": "Dilute 25ml with 475ml water for general cleaning. Use undiluted for tough stains.",
+      "image": "/images/products/multipurpose-cleaner.jpg",
+      "badge": "Eco-Friendly"
+    },
+    {
+      "id": "df-001",
+      "name": "Dry Coconut - Split",
+      "category": "dry-food",
+      "price": 180,
+      "description": "Premium quality dry coconut, split for easy use in cooking and snacking",
+      "benefits": ["Rich in healthy fats", "High fiber content", "Natural and organic", "No preservatives"],
+      "usage": "Use in curries, chutneys, desserts, or eat as a healthy snack.",
+      "image": "/images/products/dry-coconut-split.jpg"
+    },
+    {
+      "id": "df-002",
+      "name": "Dry Coconut - Full",
+      "category": "dry-food",
+      "price": 160,
+      "description": "Whole dry coconuts with shell for maximum freshness",
+      "benefits": ["Stays fresh longer", "Versatile usage", "Rich coconut flavor", "Premium quality"],
+      "usage": "Crack open and grate fresh coconut for cooking.",
+      "image": "/images/products/dry-coconut-full.jpg"
+    },
+    {
+      "id": "df-003",
+      "name": "Residential Blend Tea",
+      "category": "dry-food",
+      "price": 250,
+      "description": "Aromatic tea blend perfect for everyday home brewing",
+      "benefits": ["Rich aroma and taste", "Perfect strength", "Fresh tea leaves", "Daily drinking blend"],
+      "usage": "Boil 1 tsp tea with water and milk. Add sugar to taste.",
+      "image": "/images/products/residential-tea.jpg"
+    },
+    {
+      "id": "df-004",
+      "name": "Hotel Blend Tea",
+      "category": "dry-food",
+      "price": 320,
+      "description": "Strong, full-bodied tea blend for commercial use",
+      "benefits": ["Extra strong flavor", "Consistent quality", "Long-lasting freshness", "Professional grade"],
+      "usage": "Ideal for making large batches. Use as per serving requirements.",
+      "image": "/images/products/hotel-tea.jpg"
+    },
+    {
+      "id": "df-005",
+      "name": "Groundnut",
+      "category": "dry-food",
+      "price": 140,
+      "description": "Fresh, crunchy groundnuts - perfect for snacking and cooking",
+      "benefits": ["High protein content", "Good source of energy", "Natural and unprocessed", "Versatile ingredient"],
+      "usage": "Roast and season for snacking, or use in cooking.",
+      "image": "/images/products/groundnut.jpg"
+    },
+    {
+      "id": "df-006",
+      "name": "Groundnut Seeds",
+      "category": "dry-food",
+      "price": 200,
+      "description": "Quality groundnut seeds for planting or culinary use",
+      "benefits": ["High germination rate", "Organic cultivation", "Fresh harvest", "Dual purpose"],
+      "usage": "Plant in well-drained soil or use in cooking.",
+      "image": "/images/products/groundnut-seeds.jpg"
+    },
+    {
+      "id": "df-007",
+      "name": "Jaggery Powder",
+      "category": "dry-food",
+      "price": 120,
+      "description": "Natural sweetener made from pure sugarcane juice",
+      "benefits": ["Healthier than sugar", "Rich in minerals", "Natural sweetness", "Easy to use"],
+      "usage": "Use as sugar substitute in tea, desserts, and cooking.",
+      "image": "/images/products/jaggery-powder.jpg"
+    },
+    {
+      "id": "df-008",
+      "name": "Jaggery Cubes",
+      "category": "dry-food",
+      "price": 110,
+      "description": "Convenient jaggery cubes for portion-controlled sweetness",
+      "benefits": ["Portion control", "Pure jaggery", "Long shelf life", "Traditional taste"],
+      "usage": "Add to hot beverages or melt for cooking.",
+      "image": "/images/products/jaggery-cubes.jpg"
+    },
+    {
+      "id": "vg-001",
+      "name": "Fresh Tomatoes",
+      "category": "vegetables",
+      "price": 40,
+      "description": "Farm-fresh, juicy tomatoes picked at peak ripeness",
+      "benefits": ["Rich in vitamins", "Fresh from farm", "Organic cultivation", "Juicy and flavorful"],
+      "usage": "Use in salads, curries, sauces, and sandwiches.",
+      "image": "/images/products/tomatoes.jpg"
+    },
+    {
+      "id": "vg-002",
+      "name": "Fresh Onions",
+      "category": "vegetables",
+      "price": 35,
+      "description": "Premium quality onions with strong flavor",
+      "benefits": ["Essential cooking ingredient", "Fresh and crisp", "Long storage life", "Organic farming"],
+      "usage": "Use in all types of cooking - curries, salads, and more.",
+      "image": "/images/products/onions.jpg"
+    },
+    {
+      "id": "vg-003",
+      "name": "Green Chilli",
+      "category": "vegetables",
+      "price": 60,
+      "description": "Fresh, spicy green chillies to add heat to your dishes",
+      "benefits": ["Boosts metabolism", "Fresh and spicy", "Rich in vitamin C", "Organic produce"],
+      "usage": "Add to curries, chutneys, or use as seasoning.",
+      "image": "/images/products/green-chilli.jpg"
+    },
+    {
+      "id": "vg-004",
+      "name": "Fresh Brinjal",
+      "category": "vegetables",
+      "price": 45,
+      "description": "Tender eggplants perfect for various cuisines",
+      "benefits": ["Low in calories", "High in fiber", "Versatile vegetable", "Farm fresh"],
+      "usage": "Grill, roast, curry, or stir-fry.",
+      "image": "/images/products/brinjal.jpg"
+    },
+    {
+      "id": "vg-005",
+      "name": "Fresh Drumstick",
+      "category": "vegetables",
+      "price": 70,
+      "description": "Nutritious drumsticks rich in vitamins and minerals",
+      "benefits": ["Nutrient-dense", "Boosts immunity", "Rich in iron", "Organic cultivation"],
+      "usage": "Use in sambar, curries, and soups.",
+      "image": "/images/products/drumstick.jpg"
+    },
+    {
+      "id": "vg-006",
+      "name": "Lady Finger",
+      "category": "vegetables",
+      "price": 50,
+      "description": "Fresh okra with tender texture",
+      "benefits": ["Rich in antioxidants", "Good for digestion", "Low calorie", "Farm fresh"],
+      "usage": "Stir-fry, curry, or add to stews.",
+      "image": "/images/products/lady-finger.jpg"
+    },
+    {
+      "id": "fr-001",
+      "name": "Fresh Mangoes",
+      "category": "fruits",
+      "price": 150,
+      "description": "Sweet, juicy mangoes - the king of fruits",
+      "benefits": ["Rich in vitamin C", "Natural sweetness", "Boosts immunity", "Fresh harvest"],
+      "usage": "Eat fresh, make juice, or use in desserts.",
+      "image": "/images/products/mangoes.jpg"
+    },
+    {
+      "id": "fr-002",
+      "name": "Fresh Guava",
+      "category": "fruits",
+      "price": 60,
+      "description": "Crunchy guavas with natural sweetness",
+      "benefits": ["High vitamin C", "Rich in fiber", "Boosts immunity", "Low in calories"],
+      "usage": "Eat fresh or make juice.",
+      "image": "/images/products/guava.jpg"
+    },
+    {
+      "id": "fr-003",
+      "name": "Jamun (Neredu)",
+      "category": "fruits",
+      "price": 90,
+      "description": "Dark purple jamun berries with health benefits",
+      "benefits": ["Controls blood sugar", "Rich in antioxidants", "Aids digestion", "Natural detoxifier"],
+      "usage": "Eat fresh or make juice.",
+      "image": "/images/products/jamun.jpg"
+    },
+    {
+      "id": "fr-004",
+      "name": "Fresh Papaya",
+      "category": "fruits",
+      "price": 50,
+      "description": "Ripe papaya with natural enzymes for digestion",
+      "benefits": ["Aids digestion", "Rich in vitamins", "Antioxidant properties", "Low calorie"],
+      "usage": "Eat fresh, make smoothies, or use in salads.",
+      "image": "/images/products/papaya.jpg"
+    },
+    {
+      "id": "fr-005",
+      "name": "Fresh Sapota",
+      "category": "fruits",
+      "price": 80,
+      "description": "Sweet sapota with smooth texture",
+      "benefits": ["Energy booster", "Rich in vitamins", "Natural sweetness", "High fiber"],
+      "usage": "Eat fresh when ripe.",
+      "image": "/images/products/sapota.jpg"
+    },
+    {
+      "id": "fr-006",
+      "name": "Custard Apple",
+      "category": "fruits",
+      "price": 120,
+      "description": "Creamy custard apple with unique flavor",
+      "benefits": ["Rich and creamy", "High in calories", "Vitamin C rich", "Energy dense"],
+      "usage": "Scoop and eat fresh or make ice cream.",
+      "image": "/images/products/custard-apple.jpg"
+    },
+    {
+      "id": "fr-007",
+      "name": "Fresh Pomegranate",
+      "category": "fruits",
+      "price": 180,
+      "description": "Ruby red pomegranate seeds bursting with flavor",
+      "benefits": ["Superfood status", "Rich antioxidants", "Heart healthy", "Boosts immunity"],
+      "usage": "Eat fresh seeds or make juice.",
+      "image": "/images/products/pomegranate.jpg"
+    },
+    {
+      "id": "fr-008",
+      "name": "Fresh Bananas",
+      "category": "fruits",
+      "price": 50,
+      "description": "Ripe bananas perfect for instant energy",
+      "benefits": ["Quick energy", "Rich in potassium", "Natural sweetness", "Easy to digest"],
+      "usage": "Eat fresh, add to smoothies, or use in baking.",
+      "image": "/images/products/bananas.jpg"
+    },
+    {
+      "id": "fr-009",
+      "name": "Fresh Watermelon",
+      "category": "fruits",
+      "price": 40,
+      "description": "Juicy watermelon perfect for hot days",
+      "benefits": ["Hydrating", "Low calorie", "Rich in vitamins", "Refreshing taste"],
+      "usage": "Eat fresh or make juice.",
+      "image": "/images/products/watermelon.jpg"
+    },
+    {
+      "id": "fr-010",
+      "name": "Sweet Melon",
+      "category": "fruits",
+      "price": 60,
+      "description": "Sweet, fragrant melon with refreshing taste",
+      "benefits": ["Hydrating", "Sweet flavor", "Rich in vitamins", "Low calorie"],
+      "usage": "Eat fresh or add to fruit salads.",
+      "image": "/images/products/sweet-melon.jpg"
+    }
+  ]
+}
