@@ -76,7 +76,7 @@ export default function TermsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-bold mb-4">Contact Information</h2>
               <p className="text-muted-foreground leading-relaxed">
-                For questions about these terms, contact us at info@venusbiobalance.com or call +91 1234567890.
+                For questions about these terms, contact us at infovenusbiobalance@gmail.com or call +91 7396814346.
               </p>
             </section>
           </div>

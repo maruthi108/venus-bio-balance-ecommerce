@@ -1,6 +1,6 @@
 "use client"
 
-import { useRouter } from "next/navigation"
+import { useRouter, useParams } from "next/navigation"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { Button } from "@/components/ui/button"
@@ -12,8 +12,9 @@ import Link from "next/link"
 import { useCart } from "@/contexts/cart-context"
 import { useToast } from "@/hooks/use-toast"
 
-export default function ProductDetailPage({ params }: { params: { id: string } }) {
-  const { id } = params
+export default function ProductDetailPage() {
+  const params = useParams()
+  const id = params?.id as string | undefined
   const router = useRouter()
   const { addToCart } = useCart()
   const { toast } = useToast()

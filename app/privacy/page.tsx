@@ -70,7 +70,7 @@ export default function PrivacyPage() {
               <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
               <p className="text-muted-foreground leading-relaxed">
                 If you have questions about this privacy policy, please contact us at privacy@venusbiobalance.com or
-                call +91 1234567890.
+                call +91 7396814346 .
               </p>
             </section>
           </div>

@@ -99,11 +99,22 @@ export function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Phone className="h-4 w-4 text-primary" />
-                <span>+91 73968114346</span>
+                <span>+91 7396814346</span>
+              </li>
+              <li className="flex items-center gap-2 text-muted-foreground">
+                <Phone className="h-4 w-4 text-primary" />
+                <a
+                  href="https://wa.me/918309753701"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-primary transition-colors"
+                >
+                  WhatsApp: +91 8309753701
+                </a>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Mail className="h-4 w-4 text-primary" />
-                <span>info@venusbiobalance.com</span>
+                <span>infovenusbiobalance@gmail.com</span>
               </li>
               <li className="flex items-start gap-2 text-muted-foreground">
                 <MapPin className="h-4 w-4 text-primary mt-1" />
@@ -135,13 +146,21 @@ export function Footer() {
 
         <div className="border-t border-border mt-8 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">© 2025 Venus Bio Balance. All rights reserved.</p>
-          <div className="flex gap-6 text-sm">
+          <div className="flex gap-6 text-sm items-center">
             <Link href="/privacy" className="text-muted-foreground hover:text-primary transition-colors">
               Privacy Policy
             </Link>
             <Link href="/terms" className="text-muted-foreground hover:text-primary transition-colors">
               Terms & Conditions
             </Link>
+            <a
+              href="https://wa.me/918309753701"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-muted-foreground hover:text-primary transition-colors"
+            >
+              Get in touch
+            </a>
           </div>
         </div>
       </div>

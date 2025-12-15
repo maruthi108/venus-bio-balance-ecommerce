@@ -1,4 +1,4 @@
-import type React from "react"
+import type { ReactNode } from "react"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import { Analytics } from "@vercel/analytics/next"
@@ -31,14 +31,10 @@ export const metadata: Metadata = {
   },
 }
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode
-}>) {
+export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
   return (
     <html lang="en">
-      <body className={`${inter.className} font-sans antialiased`}>
+      <body className={inter.className}>
         <CartProvider>
           {children}
           <Toaster />

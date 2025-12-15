@@ -68,7 +68,7 @@ export default function FAQPage() {
         },
         {
           q: "Do you offer bulk discounts?",
-          a: "Yes! We offer attractive discounts on bulk orders. Please contact us at info@venusbiobalance.com for bulk pricing inquiries.",
+          a: "Yes! We offer attractive discounts on bulk orders. Please contact us at infovenusbiobalance@gmail.com for bulk pricing inquiries.",
         },
       ],
     },

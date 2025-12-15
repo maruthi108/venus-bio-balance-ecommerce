@@ -58,7 +58,7 @@ export default function ContactPage() {
                   </div>
                   <h3 className="font-semibold mb-2">Phone</h3>
                   <p className="text-sm text-muted-foreground">Mon-Sat 9am-6pm</p>
-                  <p className="text-sm font-medium mt-2">+91 1234567890</p>
+                  <p className="text-sm font-medium mt-2">+91 7396814346</p>
                 </CardContent>
               </Card>
 
@@ -69,7 +69,7 @@ export default function ContactPage() {
                   </div>
                   <h3 className="font-semibold mb-2">Email</h3>
                   <p className="text-sm text-muted-foreground">We'll respond within 24h</p>
-                  <p className="text-sm font-medium mt-2">info@venusbiobalance.com</p>
+                  <p className="text-sm font-medium mt-2">infovenusbiobalance@gmail.com</p>
                 </CardContent>
               </Card>
 

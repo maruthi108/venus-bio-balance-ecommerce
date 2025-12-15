@@ -46,7 +46,7 @@ export default function HomePage() {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: "url('/images/hero-background.jpg')",
+              backgroundImage: "url('/images/mainbg.jpg')",
             }}
           />
           <div className="absolute inset-0 bg-gradient-to-br from-background/95 via-background/85 to-primary/20" />
